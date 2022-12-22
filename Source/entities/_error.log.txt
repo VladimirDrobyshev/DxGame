@@ -1,0 +1,5 @@
+[_error.log.txt]
+Duplicate resource name found: D:\Workspace\Sandbox\VisualizationTeam\Temp\DXGame\particles\ccman_mario_drag_128x128.png <-> D:\Workspace\Sandbox\VisualizationTeam\Temp\DXGame\entities\ccman_mario_drag_128x128.png
+Duplicate resource name found: D:\Workspace\Sandbox\VisualizationTeam\Temp\DXGame\particles\ccman_mario_drag_128x128.png <-> D:\Workspace\Sandbox\VisualizationTeam\Temp\DXGame\entities\ccman_mario_drag_128x128.png
+Duplicate resource name found: D:\Workspace\Sandbox\VisualizationTeam\Temp\DXGame\particles\ccman_mario_drag_128x128.png <-> D:\Workspace\Sandbox\VisualizationTeam\Temp\DXGame\entities\ccman_mario_drag_128x128.png
+Duplicate resource name found: D:\Workspace\Sandbox\VisualizationTeam\Temp\DXGame\particles\ccman_mario_drag_128x128.png <-> D:\Workspace\Sandbox\VisualizationTeam\Temp\DXGame\entities\ccman_mario_drag_128x128.png

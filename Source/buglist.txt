@@ -1,0 +1,5 @@
+===== BUGLIST =====
+(Max Vasin) hero can hit bonus boxes without jumping (fixed)
+(Max Vasin) hero must have some speed before high-jump
+(Max Vasin) dead hero can responds to input (fixed)
+(Mav Vasin) bonus-box coin must appear behind the box

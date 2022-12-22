@@ -1,0 +1,29 @@
+<NotepadPlus>
+    <Project name="DXGame">
+        <File name="A10.angelscript" />
+        <File name="bonusbox.angelscript" />
+        <File name="bug.angelscript" />
+        <File name="ccman.angelscript" />
+        <File name="coin.angelscript" />
+        <File name="Collide.angelscript" />
+        <File name="deathscenes.angelscript" />
+        <File name="disclaimerscene.angelscript" />
+        <File name="eth_util.angelscript" />
+        <File name="gamestate.angelscript" />
+        <File name="hero.angelscript" />
+        <File name="introscene.angelscript" />
+        <File name="level_end.angelscript" />
+        <File name="local.angelscript" />
+        <File name="main.angelscript" />
+        <File name="math.angelscript" />
+        <File name="triggers.angelscript" />
+        <File name="utils.angelscript" />
+        <File name="buglist.txt" />
+        <File name="falcon.angelscript" />
+        <File name="pipon.angelscript" />
+        <File name="levelscene.angelscript" />
+        <File name="sound.angelscript" />
+        <File name="levelintro.angelscript" />
+        <File name="sound.angelscript" />
+    </Project>
+</NotepadPlus>
